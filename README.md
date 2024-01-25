@@ -10,7 +10,8 @@ Simple webserver using nodejs
         $ code .
 5. create index.js
 6. copy content from index.js on github to your index.js
-7. Run nodejs application <br>
+7. Run nodejs application from the command prompt <br>
         $ node index.js
 8. Open browser http://localhost:3000 and http://localhost:3000/admin
 9. Try http://localhost:3000/account  (you should see 404 error in chrome dev tool)
+10.Use ctrl+c to stop node application 
