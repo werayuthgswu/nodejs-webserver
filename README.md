@@ -14,4 +14,4 @@ Simple webserver using nodejs
         $ node index.js
 8. Open browser http://localhost:3000 and http://localhost:3000/admin
 9. Try http://localhost:3000/account  (you should see 404 error in chrome dev tool)
-10.Use ctrl+c to stop node application 
+10. Use ctrl+c to stop node application 
