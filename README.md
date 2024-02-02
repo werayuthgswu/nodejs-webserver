@@ -1,9 +1,9 @@
 # nodejs-webserver
 Simple webserver using nodejs
 1. At command prompt, create a folder nodejs-webserver <br>
-	$ mkdir nodejs-webserver
+	$ mkdir nodejs-[your id]
 2. Change folder to the newly created folder <br>
-        $ cd nodejs-webserver
+        $ cd nodejs-[your id]
 3. Initialize nodejs (this command will create package.json) <br>
         $ npm init -y
 4. Open folder using vscode <br>
